@@ -2,7 +2,12 @@
 
 **Software Engineer**
 
-[![Anurag's GitHub stats](https://github-readme-stats-clone-fork.vercel.app/api?username=Aokuma0628&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api/top-langs/?username=Aokuma0628" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api?username=Aokuma0628" />
+</p>
+
+
 
 <!--
 **Aokuma0628/Aokuma0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
