@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**Software Engineer**
+
 <!--
 **Aokuma0628/Aokuma0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
