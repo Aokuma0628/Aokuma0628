@@ -3,8 +3,8 @@
 **Software Engineer**
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api/top-langs/?username=Aokuma0628" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api?username=Aokuma0628" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api/top-langs/?username=Aokuma0628&private_count=true" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api?username=Aokuma0628&private_count=true" />
 </p>
 
 
