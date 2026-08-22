@@ -1,25 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aokuma 👋
 
-**Software Engineer**
+**Software Engineer** based in Kyoto, Japan
 
-<p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api/top-langs/?username=Aokuma0628&private_count=true" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api?username=Aokuma0628&private_count=true" />
+- 🔭 Currently building personal web apps with **Next.js** and **Laravel**
+- 💻 Full-stack web development with TypeScript & PHP
+
+## 🛠 Tech Stack
+
+- **Languages:** `TypeScript` `JavaScript` `PHP`
+- **Frontend:** `React` `Next.js`
+- **Backend:** `Laravel` `Node.js`
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-fork.vercel.app/api?username=Aokuma0628&private_count=true&theme=github_dark&hide_border=true">
+    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api?username=Aokuma0628&private_count=true&hide_border=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-fork.vercel.app/api/top-langs/?username=Aokuma0628&private_count=true&theme=github_dark&hide_border=true">
+    <img alt="Top Langs" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api/top-langs/?username=Aokuma0628&private_count=true&hide_border=true">
+  </picture>
 </p>
-
-
-
-<!--
-**Aokuma0628/Aokuma0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
