@@ -7,9 +7,11 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** `TypeScript` `JavaScript` `PHP`
-- **Frontend:** `React` `Next.js`
-- **Backend:** `Laravel` `Node.js`
+- **Languages:** `TypeScript` `JavaScript` `PHP` `C/C++` `Java`
+- **Frontend:** `React` `Next.js` `Tailwind CSS` `shadcn/ui` `Astro`
+- **Backend:** `Laravel` `Node.js` `Express` `Prisma` `Drizzle ORM`
+- **Database:** `PostgreSQL` `MySQL`
+- **Dev Tools:** `Docker` `GitHub Actions` `Vercel` `ESLint / Prettier` `PHPStan / PHPUnit` `Jest`
 
 ## 📊 GitHub Stats
 
