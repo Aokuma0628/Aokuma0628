@@ -24,10 +24,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-fork.vercel.app/api/top-langs/?username=Aokuma0628&private_count=true&theme=github_dark&hide_border=true">
     <img alt="Top Langs" height="200px" src="https://github-readme-stats-clone-fork.vercel.app/api/top-langs/?username=Aokuma0628&private_count=true&hide_border=true">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Aokuma0628&theme=github-dark-blue&hide_border=true">
-    <img alt="GitHub Streak" height="200px" src="https://streak-stats.demolab.com?user=Aokuma0628&hide_border=true">
-  </picture>
 </p>
 
 <p align="left">
