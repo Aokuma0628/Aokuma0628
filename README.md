@@ -30,13 +30,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Aokuma0628&theme=github-dark-blue&hide_border=true">
-    <img alt="GitHub Streak" height="200" src="https://streak-stats.demolab.com?user=Aokuma0628&hide_border=true">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aokuma0628&bg_color=0d1117&color=c9d1d9&line=39d353&point=26a641&area=true&area_color=39d353&hide_border=true">
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Aokuma0628&bg_color=ffffff&color=24292f&line=40c463&point=216e39&area=true&area_color=40c463&hide_border=true">
   </picture>
